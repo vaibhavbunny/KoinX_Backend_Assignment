@@ -1,2 +1,2 @@
-const api_key="WB6RT49ZZNAHDI2NU662QV8GTHX4DP4FT2";
+const api_key="Your key will be here";
 module.exports = {api_key: api_key}
